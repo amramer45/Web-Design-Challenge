@@ -20,12 +20,12 @@ a.navbar-brand{
 }
 
 h3{
-    color: rgb(0, 0, 0);
+    color: #e96b86;
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 15px;
 }
 
-.img-thumbnail{
+.thumbnail{
     padding: 10px;
     border: none;
 }
@@ -44,10 +44,6 @@ body{
     background-color: white;
     padding-top: 20px;
     padding-bottom: 40px;
-}
-
-.pic{
-    border: 3px solid #e96b86;
 }
 
 .navbar{
