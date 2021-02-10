@@ -30,9 +30,15 @@ h3{
     border: none;
 }
 
+.square{
+    float: left;
+    margin: 5px;
+}
+
 p{
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
+    text-align: justify;
     padding: 10px;
 }
 
@@ -84,7 +90,7 @@ tr>td:nth-child(7),
 tr>td:nth-child(8),
 tr>td:nth-child(9),
 tr>td:nth-child(10) {
-    text-align: right;
+    text-align: center;
 }
 
 @media(max-width:767px){
