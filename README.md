@@ -27,7 +27,7 @@ Data is more powerful when we share it with others! Let's take what we've learne
  * Uses a Bootstrap grid for the visualizations.
  * The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
 
-![comparison page](Images/comparisons_page.png)
+![comparison page](Images/comparisons.png)
 
 ### The Data Page:
 
